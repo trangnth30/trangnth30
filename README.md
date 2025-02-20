@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thi Huyen Trang</h1>
 <h3 align="center">B.S. in Data Science at University of Information Technology VNU-HCM, Viet Nam.
 </h3>
-<img align="right" alt="Flutter" width="42%" src="bird.png">
-
 
 - 🦉 How to reach me *trangngth3011@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/huyen-trang-nguyen-a09350276/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huyen-trang-nguyen-a09350276/" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="https://www.linkedin.com/in/huyen-trang-nguyen-a09350276/"  height="50" width="50" />
     </a>
-</p>
-
-<p align="left">
     <a href="https://www.facebook.com/huyen.trang.65718/" target="blank">
-        <img align="center" src="https://img.icons8.com/?size=100&id=118495&format=png&color=000000" alt="https://www.facebook.com/huyen.trang.65718/" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/?size=100&id=118495&format=png&color=000000" alt="https://www.facebook.com/huyen.trang.65718/" height="50" width="50" />
     </a>
 </p>
 
