@@ -29,13 +29,3 @@
         <img src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" alt="csharp" width="40" height="40"/> 
     </a> 
 </p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrichor-hl&show_icons=true&locale=en&layout=compact" alt="petrichor-hl" />
-</p>  
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=petrichor-hl&show_icons=true&locale=en" alt="petrichor-hl" />
-</p>
